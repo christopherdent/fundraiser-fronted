@@ -1,0 +1,57 @@
+
+.container{ text-align: center; max-width: 400px; margin: 0 auto; }
+
+
+
+/* YOUR CSS GOES HERE */
+
+
+.card{
+  text-align: center;
+  margin: auto;
+  width: 60%;
+  border: 5px solid #FFFF00;
+  padding: 10px;
+  width: 13.5rem
+ }
+
+#btn{
+  width: 100%; 
+  background-color: #794297 !important;
+  border: #794297 !important;
+  display: block;
+  border-radius: 6px;
+  text-color: white
+}
+
+
+
+.progress{
+  height: .4em !important
+}
+
+.progress-bar{
+  background-color: #794297 !important
+  
+}
+
+
+.right{
+  float: right
+}
+
+.left {
+  float: left
+}
+
+#tally{
+  color: #794297;
+  font-weight: bold;
+
+}
+
+#reset-wrapper{
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+} 
